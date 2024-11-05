@@ -32,7 +32,6 @@ const seed = async () => {
       },
     }));
 
-    console.log("upserted row", formatted);
   }
 };
 
